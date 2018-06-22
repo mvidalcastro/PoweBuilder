@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "lib2.pbl" "";
+@end;
+@begin Objects
+ "dw_2.srd" "lib2.pbl";
+ "w_ventana_2.srw" "lib2.pbl";
+@end;

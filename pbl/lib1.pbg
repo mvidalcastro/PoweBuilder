@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "lib1.pbl" "";
+@end;
+@begin Objects
+ "dw_1.srd" "lib1.pbl";
+ "w_venatana_1.srw" "lib1.pbl";
+@end;
